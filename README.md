@@ -6,7 +6,7 @@
 
 这是她的照片。
 
-![美照]([IMG_1573.png](https://github.com/clairyitinggu/blog-test/blob/master/IMG_1573.png))
+[一一美照](https://github.com/clairyitinggu/blog-test/blob/master/IMG_1573.png)
 
 1. 一一喜欢吃鱼和肉
 2. 一一喜欢上房揭瓦
